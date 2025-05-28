@@ -18,16 +18,17 @@ Se presenta un prueba de automatización de pruebas de API, por medio de Karate 
 
 
 
-petstoreApi/
-├── src/
-│   └── test/
-│       └── java/
-│           └── com/
-│               └── petstore/
-│                   ├── features/
-│                   │   └── user.feature
-│                   └── runners/
-│                       └── TestRunner.java
+- petstoreApi/
+- ├── src/
+- │   └── test/
+- │       └── java/
+- │           └── com/
+- │               └── petstore/
+- │                   ├── features/
+- │                   │   └── user.feature
+- │                   └── runners/
+- │                       └── TestRunner.java
+
 ## Enfoque de integración
 
 La automatización se centra en 5 escenarios
